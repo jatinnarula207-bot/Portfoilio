@@ -1,30 +1,63 @@
-# Jatin Narula — Portfolio
+# 🌐 Personal Portfolio
 
-A React + Vite + Tailwind CSS developer portfolio.
+Welcome to my personal portfolio website! This project showcases my skills, projects, certifications, and journey as a Computer Science Engineering student.
 
-## Getting started
+## 👨‍💻 About Me
 
-```bash
-npm install
-npm run dev
-```
+Hi! I'm **Jatin Narula**, a Computer Science & Engineering student passionate about software development, problem-solving, and building real-world projects.
 
-Open the printed local URL in your browser. To build for production:
+I'm currently focused on improving my **Data Structures & Algorithms** skills and exploring **Web Development** and **AI/ML**.
 
-```bash
-npm run build
-npm run preview
-```
+## 🚀 Tech Stack
 
-## Where to edit things
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Node.js
+- Git & GitHub
 
-- `src/data/projects.js` — add repo/demo links and tech stack as projects progress
-- `src/data/certifications.js` — dates are still placeholders; add them once you have exact issue dates
-- `src/data/skills.js` — add/remove skills or categories
-- `public/images/jatin-photo.png` — your About section photo; replace this file (keep the same name) to swap it
-- `public/resume.pdf` — your resume; replace this file (keep the same name) to update it — both the navbar and hero "View Resume" buttons link here
-- `src/components/Contact.jsx` — the form is UI-only; wire `handleSubmit` up to a service like Formspree or EmailJS, or your own backend route, to actually receive messages
+## 📌 Featured Projects
 
-## Deploying
+### 🏦 Stock Trading Platform
+A frontend project inspired by modern stock trading platforms, built to practice responsive UI development and JavaScript.
 
-Works out of the box on Vercel or Netlify — just point either at this repo, framework preset "Vite".
+**Tech:** HTML, CSS, JavaScript
+
+### 🤖 SigmaGPT
+An AI-powered chatbot project inspired by ChatGPT, built as part of my learning journey.
+
+**Tech:** HTML, CSS, JavaScript, OpenAI API
+
+## 📜 Certifications
+
+- Cisco – JavaScript Essentials
+- Infosys Springboard – Cloud Computing
+
+## 🧠 Currently Learning
+
+- Data Structures & Algorithms
+- Advanced JavaScript
+- React.js
+- Node.js & Express.js
+- AI/ML
+
+## 📊 Coding Profiles
+
+- **LeetCode:** [Add your profile link]
+- **GitHub:** [Add your GitHub link]
+- **LinkedIn:** [Add your LinkedIn link]
+
+## 📫 Contact Me
+
+Feel free to connect with me for collaboration, projects, or opportunities.
+
+- **Email:** [Your Email]
+- **LinkedIn:** [Your LinkedIn]
+- **GitHub:** [Your GitHub]
+
+---
+
+⭐ If you like this portfolio, consider giving the repository a star!
+
+Made with ❤️ by **Jatin Narula**
