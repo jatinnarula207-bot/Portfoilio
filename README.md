@@ -28,3 +28,49 @@ npm run preview
 ## Deploying
 
 Works out of the box on Vercel or Netlify — just point either at this repo, framework preset "Vite".
+
+## 📌 Featured Projects
+
+### 🏦 Stock Trading Platform
+A frontend project inspired by modern stock trading platforms, built to practice responsive UI development and JavaScript.
+
+**Tech:** HTML, CSS, JavaScript
+
+### 🤖 SigmaGPT
+An AI-powered chatbot project inspired by ChatGPT, built as part of my learning journey.
+
+**Tech:** HTML, CSS, JavaScript, OpenAI API
+
+## 📜 Certifications
+
+- Cisco – JavaScript Essentials
+- Infosys Springboard – Cloud Computing
+
+## 🧠 Currently Learning
+
+- Data Structures & Algorithms
+- Advanced JavaScript
+- React.js
+- Node.js & Express.js
+- AI/ML
+
+## 📊 Coding Profiles
+
+- **LeetCode:** [Add your profile link]
+- **GitHub:** [Add your GitHub link]
+- **LinkedIn:** [Add your LinkedIn link]
+
+## 📫 Contact Me
+
+Feel free to connect with me for collaboration, projects, or opportunities.
+
+- **Email:** [Your Email]
+- **LinkedIn:** [Your LinkedIn]
+- **GitHub:** [Your GitHub]
+
+---
+
+⭐ If you like this portfolio, consider giving the repository a star!
+
+Made with ❤️ by **Jatin Narula**
+>>>>>>> a51a491fc682a06ef0100daa963cba1625bb50e6
